@@ -10,14 +10,14 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueTCesar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueTCesar&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img align="right" height="150" src="https://media.discordapp.net/attachments/1342510508087054369/1351252496269705256/download.gif?ex=67d9b374&is=67d861f4&hm=bcb8268b990c1110230dde7371c06734787b1c920e3b27501c0e7ec2a9fa0d78&="  />
 
 ###
 
-<img align="right" height="150" src="https://media.discordapp.net/attachments/1342510508087054369/1351252496269705256/download.gif?ex=67d9b374&is=67d861f4&hm=bcb8268b990c1110230dde7371c06734787b1c920e3b27501c0e7ec2a9fa0d78&="  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueTCesar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueTCesar&locale=pt-br&hide_title=false&layout=compact&card_width=120&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -45,6 +45,31 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HenriqueT.Cesar/HenriqueT.Cesar/output/snake.svg" alt="Snake animation" />
+name: Generate Datas
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: HenriqueTCesar
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
 
 ###
