@@ -48,5 +48,3 @@
 <img src="https://raw.githubusercontent.com/HenriqueT.Cesar/HenriqueT.Cesar/output/snake.svg" alt="Snake animation" />
 
 ###
-
-##
