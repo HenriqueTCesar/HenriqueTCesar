@@ -11,8 +11,8 @@
 ###
 
 <div align="left">
-  <img align="right" height="150" src="https://media.discordapp.net/attachments/1342510508087054369/1351252496269705256/download.gif?ex=67d9b374&is=67d861f4&hm=bcb8268b990c1110230dde7371c06734787b1c920e3b27501c0e7ec2a9fa0d78&="  />
   <img src="https://github-readme-stats.vercel.app/api?username=HenriqueTCesar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img align="right" height="150" src="https://media.discordapp.net/attachments/1342510508087054369/1351252496269705256/download.gif?ex=67d9b374&is=67d861f4&hm=bcb8268b990c1110230dde7371c06734787b1c920e3b27501c0e7ec2a9fa0d78&="  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueTCesar&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
