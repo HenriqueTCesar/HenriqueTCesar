@@ -19,10 +19,7 @@
 
 <img align="right" height="150" src="https://media.discordapp.net/attachments/1342510508087054369/1351252496269705256/download.gif?ex=67d9b374&is=67d861f4&hm=bcb8268b990c1110230dde7371c06734787b1c920e3b27501c0e7ec2a9fa0d78&="  />
 
-###
-
 <h2 align="left">Tecnologias</h2>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
