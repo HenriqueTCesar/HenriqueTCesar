@@ -41,7 +41,7 @@
 <div align="left">
   <a href="https://www.instagram.com/henrique.c4sar_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&https://www.instagram.com/henrique.c4sar_/&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  <a
+  <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/henriquecesarr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
