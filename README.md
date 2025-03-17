@@ -45,4 +45,4 @@
 
 ###
 
-![Snake animation](https://github.com/HenriqueTCesar/HenriqueTCesar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HenriqueT.Cesar/HenriqueT.Cesar/blob/output/github-contribution-grid-snake.svg)
